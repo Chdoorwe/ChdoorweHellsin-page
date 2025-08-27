@@ -2,7 +2,7 @@
     font-size: 1.5em;
     padding: 4px 4px;
     border: 10px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/gray/temp/temp-grB.png);
+    border-image-source: url(../img/biveld-9s-B/gray/temp/temp-grB.png);
     border-image-slice: 14 fill;
     align-items: center;
     display: flex;
@@ -15,7 +15,7 @@
     font-size: .5em;
     padding: 10px 5px;
     border: 10px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/red/temp/temp-rB.png);
+    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rB.png);
     border-image-slice: 14 fill;
     align-items: center;
     display: flex;
@@ -26,7 +26,7 @@
     margin: 2px;
     padding: 5px 3px;
     border: 10px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/red/temp/temp-rInb.png);
+    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rInb.png);
     border-image-slice: 14 fill;
     align-items: center;
     display: flex;
@@ -36,14 +36,14 @@
 .h1-gen1 {
     padding: 5px 3px;
     border: 18px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/blue/temp/temp-brBInB.png);
+    border-image-source: url(../img/biveld-9s-B/blue/temp/temp-brBInB.png);
     border-image-slice: 40 fill;
 }
 
 .h2-gen1 {
     padding: 10px 10px;
     border: 18px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/blue/temp/temp-brBInB.png);
+    border-image-source: url(../img/biveld-9s-B/blue/temp/temp-brBInB.png);
     border-image-slice: 40 fill;
     align-items: center;
     display: flex;
@@ -54,7 +54,7 @@
     margin: 10pt;
     padding: 10px 10px;
     border: 18px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/blue/temp/temp-brBInB.png);
+    border-image-source: url(../img/biveld-9s-B/blue/temp/temp-brBInB.png);
     border-image-slice: 40 fill;
     align-items: center;
 }
@@ -63,7 +63,7 @@
     margin: 5pt;
     padding: 5px 5px;
     border: 15px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/Red/temp/temp-rInB.png);
+    border-image-source: url(../img/biveld-9s-B/Red/temp/temp-rInB.png);
     border-image-slice: 10 fill;
 
 }
@@ -72,7 +72,7 @@
     margin: 5pt;
     padding: 5px 5px;
     border: 15px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/Red/temp/temp-rInB.png);
+    border-image-source: url(../img/biveld-9s-B/Red/temp/temp-rInB.png);
     border-image-slice: 10 fill;
 
 }
@@ -81,7 +81,7 @@
     margin: 10pt;
     padding: 5px 5px;
     border: 15px solid transparent;
-    border-image-source: url(/resorces/img/biveld-9s-B/blue/temp/temp-brInB.png);
+    border-image-source: url(../img/biveld-9s-B/blue/temp/temp-brInB.png);
     border-image-slice: 10 fill;
     align-items: center;
     justify-content: space-between;
