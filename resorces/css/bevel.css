@@ -26,11 +26,12 @@
     margin: 2px;
     padding: 5px 3px;
     border: 10px solid transparent;
-    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rInb.png);
+    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rInB.png);
     border-image-slice: 14 fill;
     align-items: center;
     display: flex;
     justify-content: space-between;
+    /*dfsdfsd*/
 }
 
 .h1-gen1 {
