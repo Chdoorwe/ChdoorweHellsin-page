@@ -64,7 +64,7 @@
     margin: 5pt;
     padding: 5px 5px;
     border: 15px solid transparent;
-    border-image-source: url(../img/biveld-9s-B/Red/temp/temp-rInB.png);
+    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rInB.png);
     border-image-slice: 10 fill;
 
 }
@@ -73,7 +73,7 @@
     margin: 5pt;
     padding: 5px 5px;
     border: 15px solid transparent;
-    border-image-source: url(../img/biveld-9s-B/Red/temp/temp-rInB.png);
+    border-image-source: url(../img/biveld-9s-B/red/temp/temp-rInB.png);
     border-image-slice: 10 fill;
 
 }
@@ -86,4 +86,5 @@
     border-image-slice: 10 fill;
     align-items: center;
     justify-content: space-between;
+    /*dfsfsdfdsf*/
 }
