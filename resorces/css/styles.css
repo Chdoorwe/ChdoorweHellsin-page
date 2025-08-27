@@ -1,0 +1,18 @@
+* {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+    color: #fcd28f;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(207, 208, 223);
+}
+
+main h2.h2-gen1{
+    margin: 20px;
+}
